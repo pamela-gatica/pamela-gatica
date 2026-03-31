@@ -25,7 +25,7 @@ I bring a unique blend of **5+ years in Human Resources** and a current **Data A
 **Data Analytics for Business** — St. Clair College, Windsor, ON *(Expected April 2026)*
 - Focus: SQL, Python, statistics, data visualization, business intelligence
 
-**Psychology (B.Sc.)** — Universidad de Chile, Santiago
+**Psychology (B.Sc.)** — Universidad Santo Tomas, Santiago, Chile
 - Focus: Organizational behavior, research methodology, psychometrics
 
 ---
@@ -63,7 +63,6 @@ Key areas covered throughout the Data Analytics for Business program:
 ## 🏅 Certifications & Learning
 
 - 📌 **Data Analytics for Business Diploma** — St. Clair College *(in progress, 2026)*
-- 📌 **Google Data Analytics Professional Certificate** *(in progress)*
 - 📌 Statistics: hypothesis testing, chi-square, t-tests, multiple regression
 
 ---

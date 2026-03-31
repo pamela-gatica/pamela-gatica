@@ -1,5 +1,3 @@
-# Hi, I'm Pamela 👋
-
 ### Data Analytics & HR Professional | Windsor, ON 🇨🇦
 
 ---

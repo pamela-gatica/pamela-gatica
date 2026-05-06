@@ -22,7 +22,7 @@ I bring a unique blend of **5+ years in Human Resources** and a current **Data A
 
 ## 🎓 Education
 
-**Data Analytics for Business** — St. Clair College, Windsor, ON *(Expected April 2026)*
+**Data Analytics for Business** — St. Clair College, Windsor, ON
 - Focus: SQL, Python, statistics, data visualization, business intelligence
 
 **Psychology (B.Sc.)** — Universidad Santo Tomas, Santiago, Chile

@@ -56,6 +56,7 @@ I bring a rare combination: the discipline and people expertise of a military HR
 - 💰 **MyWallet — Shared Finance Tracker** — Bilingual PWA for household finance management (React 19, Flask, PostgreSQL). Built with Claude (Anthropic) as AI pair-programmer.
 - 🏘️ **Community Management Platform** — Production PWA for a nonprofit with real-time messaging, scheduling, and multilingual support (Flask, PostgreSQL, Socket.IO). Built with Claude (Anthropic) as AI pair-programmer.
 - 🩺 **[Student Health Data — Flask Web App](https://github.com/pamela-gatica/student-health-flask-app)** — Full-stack Flask/SQLite app analyzing 1,000 student wellness records, with a dashboard, insights, and an ML-based risk predictor. [Live demo →](https://student-health-app.onrender.com/)
+- 📅 **Role Designation Scheduler** — Google Sheets add-on (Apps Script) that auto-generates weekly role assignment schedules across two independent rotation queues, with availability tracking, replacements, and cancellations. Built with Claude (Anthropic) as AI pair-programmer.
 
 *Full details on every project: [pamela-gatica.github.io/#projects](https://pamela-gatica.github.io/#projects)*
 
